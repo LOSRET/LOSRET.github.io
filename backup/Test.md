@@ -5,4 +5,14 @@ test123
 
 
 
-<video src="[本地视频路径](https://alist2.7471.top/d/OneDrive%E6%96%87%E6%A1%A3/%E7%BE%8E%E6%BC%AB/%E6%81%B6%E6%90%9E%E4%B9%8B%E5%AE%B6/Season%2014/%E6%81%B6%E6%90%9E%E4%B9%8B%E5%AE%B6.Family.Guy.S14E12.Scammed.Yankees.SDTV.mp4)"></video>
+<iframe 
+src="alist2.7471.top/d/OneDrive%E6%96%87%E6%A1%A3/%E7%BE%8E%E6%BC%AB/%E6%81%B6%E6%90%9E%E4%B9%8B%E5%AE%B6/Season%2014/%E6%81%B6%E6%90%9E%E4%B9%8B%E5%AE%B6.Family.Guy.S14E12.Scammed.Yankees.SDTV.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+
